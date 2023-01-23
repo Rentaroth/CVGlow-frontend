@@ -15,19 +15,15 @@ function Section1() {
         alt="elegant_background"
         className={blurState + ' h-full w-full duration-300 object-cover'}
       ></img>
-      <div className="z-10 font-mono flex flex-col absolute top-26">
-        <p className=" text-white font-Sofia text-3xl">
+      <div className="z-10 font-mono flex flex-col absolute top-26 items-center">
+        <p className=" text-white font-Aboreto text-md sm:text-xxl">
           Antonio de Jesús Tabares Torres
         </p>
-        <p className="text-white text-md font-Explora mt-8 font-medium">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor
-          ex ac nisi rutrum rutrum. Morbi accumsan nunc ipsum, vitae mattis nisl
-          pellentesque non. Nunc hendrerit accumsan posuere. Nunc tristique
-          pharetra tellus nec rutrum. In vitae vehicula odio. Sed egestas, nibh
-          eu convallis aliquam, neque neque convallis neque, sed rutrum.
+        <p className="text-white w-80 text-sm font-Dancing mt-8 font-thin md:w-96 md:text-md">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales dolor sit amet velit vehicula, sagittis dapibus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales dolor sit amet velit vehicula, sagittis dapibus nam.
         </p>
         <div className="flex items-center justify-center mt-8">
-          <button className="text-white bg-black p-2 rounded-3xl text-xs font-Raleway font-bold mr-2 h-8">
+          <button className="text-white bg-black p-2 rounded-3xl text-xs font-Raleway font-bold mr-2">
             Read more
           </button>
           <button className="text-black bg-white p-2 rounded-3xl text-xs font-Raleway font-extrabold ml-2">
