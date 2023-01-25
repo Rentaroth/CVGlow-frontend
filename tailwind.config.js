@@ -6,7 +6,7 @@ module.exports = {
       'xs': '320px',
       'sm': '640px',
       'md': '720px',
-      'lg': '1080px',
+      'lg': '900px',
       'xl': '1280px'
     },
     fontFamily: {
@@ -18,13 +18,13 @@ module.exports = {
       Roboto: ['Roboto', 'sans-serif'],
     },
     fontSize: {
-      xxs: ['8px'],
-      xs: ['10px'],
-      sm: ['12px'],
-      md: ['16px'],
-      xl: ['24px'],
-      xxl: ['32px'],
-      max: ['48px'],
+      xxs: ['25%'],
+      xs: ['30%'],
+      sm: ['40%'],
+      md: ['50%'],
+      xl: ['60%'],
+      xxl: ['80%'],
+      max: ['100%'],
     },
     backgroundImage: {
       section1: ['url(https://i.postimg.cc/VsKHyGGp/black-diamonds.jpg)'],
