@@ -1,9 +1,8 @@
-import './App.css';
 import { Template } from './components/Template'
 
 function App() {
   return (
-    <div className="App">
+    <div className="w-full h-fit">
       <Template/>
     </div>
   );

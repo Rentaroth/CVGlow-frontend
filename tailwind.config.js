@@ -53,6 +53,9 @@ module.exports = {
             left: '0%'
           }
         }
+      },
+      boxShadow: {
+        'custom': '0 0 10px -5px rgba(0,0,0,0.75)',
       }
     }
   },
