@@ -1,4 +1,4 @@
-function Section1() {
+function Section1(props) {
   return (
     <section className="w-full h-[80vh] bg-[#7CA15D] flex relative items-end md:items-center lg:h-[100vh overflow-hidden">
       <div className="z-20 flex flex-col w-full h-[28vh] items-start mx-[15vw] justify-evenly border-t-2 bg-[#7CA15D] border-white text-white font-Raleway md:ml-[10vw] md:w-[40vw] md:h-full md:m-0 md:border-none md:justify-center">

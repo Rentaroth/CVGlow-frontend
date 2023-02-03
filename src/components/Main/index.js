@@ -7,13 +7,13 @@ import { Footer } from "./components/Footer";
 
 function Main() {
   return(
-    <section>
+    <React.Fragment>
       <MainHeader />
       <Section1 />
       <Section2 />
       <Section3 />
       <Footer />
-    </section>
+    </React.Fragment>
   );
 }
 

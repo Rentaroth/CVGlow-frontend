@@ -2,6 +2,13 @@
 module.exports = {
   content: ['./src/**/**/**/*.{js,jsx}'],
   theme: {
+    colors: {
+      light_green: '#85A663',
+      dark_green: '#708C54',
+      basic_yellow: '#D98E32',
+      basic_white: '#F2F2F2',
+      basic_black: '#0D0D0D',
+    },
     screens: {
       'xs': '320px',
       'sm': '640px',
@@ -30,6 +37,7 @@ module.exports = {
       section1: ['url(https://i.postimg.cc/VsKHyGGp/black-diamonds.jpg)'],
       section2: ['url(https://i.postimg.cc/0jQcwxTJ/depositphotos-12208904-stock-photo-diamonds-on-white-background-with.webp)'],
       tiny1: ['url(https://i.postimg.cc/Qt7HRbrF/Nueva-imagen-de-mapa-de-bits.png)'],
+      signForm: ['url(https://i.postimg.cc/0jzRhn4L/coding.jpg)'],
     },
     extend: {
       animation: {
