@@ -1,10 +1,11 @@
 import { Template } from './components/Template'
+import { DataProvider } from './components/Context';
 
 function App() {
   return (
-    <div className="w-full h-fit">
+    <DataProvider className="w-full h-fit">
       <Template/>
-    </div>
+    </DataProvider>
   );
 }
 

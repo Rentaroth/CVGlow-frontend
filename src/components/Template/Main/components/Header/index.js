@@ -1,4 +1,4 @@
-import { MenuIcon } from "../../../../icons/menu";
+import { MenuIcon } from "../../../../../icons/menu";
 
 function MainHeader() {
   const icon = MenuIcon();
