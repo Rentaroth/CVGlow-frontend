@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 function Section1(props) {
   const [blurState, setBlurState] = useState('blur-sm');

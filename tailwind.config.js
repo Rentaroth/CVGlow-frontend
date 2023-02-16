@@ -14,7 +14,8 @@ module.exports = {
       'sm': '640px',
       'md': '720px',
       'lg': '900px',
-      'xl': '1280px'
+      'xl': '1280px',
+      'xxl': '2000px',
     },
     fontFamily: {
       Dancing: ['Dancing Script', 'cursive'],
@@ -25,7 +26,7 @@ module.exports = {
       Roboto: ['Roboto', 'sans-serif'],
     },
     fontSize: {
-      xxs: ['25%'],
+      xxs: ['20%'],
       xs: ['30%'],
       sm: ['40%'],
       md: ['50%'],
@@ -38,6 +39,7 @@ module.exports = {
       section2: ['url(https://i.postimg.cc/0jQcwxTJ/depositphotos-12208904-stock-photo-diamonds-on-white-background-with.webp)'],
       tiny1: ['url(https://i.postimg.cc/Qt7HRbrF/Nueva-imagen-de-mapa-de-bits.png)'],
       signForm: ['url(https://i.postimg.cc/0jzRhn4L/coding.jpg)'],
+      codingBg: ['url(https://i.postimg.cc/SxwqZKN6/life-wallpaper-thumb.jpg)'],
     },
     extend: {
       animation: {

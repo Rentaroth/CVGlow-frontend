@@ -3,13 +3,13 @@ function Section4() {
     <section>
       <div className="">
         <div className="flex flex-col items-center">
-          <img src="" alt=""></img>
+          {/* <img src="" alt=""></img> */}
           <img
             className="w-[20%] rounded-[100%] my-12"
             src="https://i.postimg.cc/gcSJxBHb/83bc8b88cf6bc4b4e04d153a418cde62.jpg"
             alt="Profile_photo"
           ></img>
-          <img src="" alt=""></img>
+          {/* <img src="" alt=""></img> */}
         </div>
         <div className="flex flex-col items-center">
           <h2 className=" font-Lobster font-bold text-xxl md:text-xl">Complete name</h2>
